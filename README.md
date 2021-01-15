@@ -1,1 +1,3 @@
 # JAVASCRIPT
+
+Practicas en javaScript
